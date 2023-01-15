@@ -3,8 +3,11 @@ body {
 }
 
 h1 {
-    color:cornflowerblue;
-    font-family:'Courier New', Courier, monospace
+    color:rgb(19, 156, 180);
+    font-family:'Courier New', Courier, monospace;
+    font-weight:500;
+    text-decoration:underline;
+    text-decoration-thickness:1px
 }
 
 p.pink{
